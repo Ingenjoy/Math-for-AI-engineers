@@ -4,7 +4,7 @@
 
 Day 1. AI friendly Math 
 
-Day 2. Eigenvectors and Eigenvalues — All you need to know 
+Day 2. [Eigenvectors and Eigenvalues — All you need to know](https://towardsdatascience.com/eigenvectors-and-eigenvalues-all-you-need-to-know-df92780c591f) 
 
 Day 3. Vector Calculus 
 
