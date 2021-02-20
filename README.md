@@ -3,6 +3,7 @@
 [Lecture slides](https://drive.google.com/drive/folders/1yaAxRIlpLJ0IdUcGNojSMFtMogZ21yD9)
 
 Day 1. AI friendly Math 
+       [9 Distance Measures](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
 Day 2. [Eigenvectors and Eigenvalues — All you need to know](https://towardsdatascience.com/eigenvectors-and-eigenvalues-all-you-need-to-know-df92780c591f) 
 
