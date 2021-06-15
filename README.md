@@ -1,6 +1,6 @@
 # Math-for-AI-engineers
 
-[Lecture slides](https://drive.google.com/drive/folders/1yaAxRIlpLJ0IdUcGNojSMFtMogZ21yD9)
+[Lecture slides](https://www.dropbox.com/sh/853oysta3u5qa30/AAAVWPaMcIkhgH881rfOYafJa?dl=0)
 
 Day 1. AI friendly Math 
        [Distance Measures](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
